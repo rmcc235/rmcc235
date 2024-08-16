@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rmcc235
+- 👀 I’m interested in coding, crochet and carrots (I just needed a third 'c'...)
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing, just focusing on school
+- 📫 How to reach me: 
+- ⚡ Fun fact: I have two donkeys...
