@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rmcc235
-- 👀 I’m interested in coding, crochet and carrots (I just needed a third 'c'...)
-- ✨ Fun fact: I have two donkeys
+- Robots
+- Kainos
+- Comp sci student
